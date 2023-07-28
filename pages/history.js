@@ -8,6 +8,7 @@
  *  Vercel Link: https://assignment5-zeta.vercel.app/
  *
  ********************************************************************************/
+
 import { useAtom } from "jotai";
 import { searchHistoryAtom } from "@/store";
 import { useRouter } from "next/router";
